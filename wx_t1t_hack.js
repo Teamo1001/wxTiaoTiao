@@ -65,7 +65,7 @@ function extend (target) {
 var version = 9,
     score = Math.round(1000+Math.random()*2000),
     // replace with your session_id here
-    session_id = 'your session_id'
+    session_id = 'your new session_id'
 
 var headers = {
     'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C153 MicroMessenger/6.6.1 NetType/WIFI Language/zh_CN',
